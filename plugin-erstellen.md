@@ -84,4 +84,5 @@ Um Plugins in moziloCMS zu entwickeln braucht es also nicht viel. An sich reicht
 
 ## Siehe auch
 
+- http://www.mozilo.de/moziloCMS%202.0/Plugin%20Entwickler.html
 - http://www.mozilo.de/Entwicklerportal/Plugins%20programmieren.html
