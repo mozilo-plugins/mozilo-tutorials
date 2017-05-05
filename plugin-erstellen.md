@@ -66,7 +66,7 @@ class wochenTag extends Plugin {
 
 ## Konfiguration
 
-In der Funktion `getConfig()` sind verschiedene Formularelemente möglich, welche im Backend gesetzt werden können. Diese sind im [moziloCMS Entwicklerportal](http://www.mozilo.de/Entwicklerportal/Plugins%20programmieren/Details.html) dokumentiert, oder können der [Pluginvorlage](pluginvorlage.md) entnommen werden.
+In der Funktion `getConfig()` sind verschiedene Formularelemente möglich, welche im Backend gesetzt werden können. Diese sind im [moziloCMS Entwicklerportal](http://www.mozilo.de/moziloCMS%202.0/Plugin%20Entwickler/Aufbau%20eines%20Plugins.html#a8) dokumentiert, oder können der [Pluginvorlage](pluginvorlage.md) entnommen werden.
 
 ## Installation
 
