@@ -6,7 +6,7 @@ Hier können moziloCMS Anleitungen gesammelt und gemeinsam entwickelt werden. Di
 
 ## Plugins
 - [Plugin Erstellung](plugin-erstellen.md): Basis-Anleitung zur Plugin-Entwicklung
-- [Plugin Migration](plugin-erstellen.md): moziloCMS 1.12 Plugin zu moziloCMS 2.0 migrieren
+- [Plugin Migration](plugin-migration.md): moziloCMS 1.12 Plugin zu moziloCMS 2.0 migrieren
 - [Pluginvorlage](pluginvorlage.md): Mögliche Pluginvorlage zur eigenen Plugin-Entwicklung
 
 ## Nützliches
